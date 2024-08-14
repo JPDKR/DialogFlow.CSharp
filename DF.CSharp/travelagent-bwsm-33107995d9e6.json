@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "travelagent-bwsm",
+  "private_key_id": "33107995d9e61c501c3f6f70de1d855e3242b9b9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcslrndYQdNdZZ\nwAAAhd2+JcGS3d6LiPqu3re1yI+TRhurNcUHHG/ecjqrsXNJnE9NkZ6eVb+G68j5\ncSeq3U7R78hwYM+93iBXAC+oVY3LXw06DlxcLVMtKgYUkEkhT6fnllZu48yB6SQN\nf29ZAUr9XDy/irO/lfbi0W9z/Wi7C/KL46XrmFI0dHl6bDVu+pbidX4MsdFTo+mA\nptutkOcK0AWwZtZ8uByYkX31hGdzLCqDT7c/6PSpZfVe7X3s/H9PM/18ECVu2dQF\nObP4svKb4vSCiTTfnrpdz0i10O0/Qg/KrQkf9B+tRVHiFDQmseaSkvAQuXeVccCM\nXfM6oIKXAgMBAAECggEABJvrnmUWAqS+2wf4Cz8X+fJZXC0Ot5/K8KulArTu1QAN\nOBi0sW3BAQciIHYi2nzwowSQAljdiwxSobri1emv8+8WJojdqdha4iqjiQa8AEnm\njsxPI8T17kOorYbEjk7Hm3SQGUkcQfJhUmZRS6OemMI55TZt7OPUp1cauXIwPoqV\n8MyAcYu5gM47DaJqWumdLiZbUxH8kUv6cStKvwubojQAWHE7oDFScJfwS/6aXi2z\nZQO+j9fcq2Gs7jwlVgj4NERfBfAlYJ4yPnSO74En6yf24/Q+5SIjZK2iwd0IeXQR\nV799sgmiWJPtBP4Lg+Z0NwgMnMssIfHjvYlx/uUhxQKBgQDKdRzQhTJjcHQuwIEJ\nBBUEMnUxIHtCQAi7WQ/xQl+oKEoY5LmbRI5EF6duVDAOC2oygXrwIMtocMjIYiON\nZAr01M2HovirbzhMFGJC1ZZTwKogOhNt0Ul33rR7B1rmAj6dVF/WQYKmoNQ4XjJe\ny4IYwb9DTIo0DVhzXK/RFJenmwKBgQDGIx8dKMGcn9XC45UX7DV+UhfFEF+QD7+1\nZ+nmnZwPYWxC7KQE6eyX/KXKGsaaS1DhFW1oqXozfb57BRDAt0bmaUWvuKp1V4/V\nb7t9FLQ8b6Rx3KkxBT67s5jTnieGVJfhB6koTrWFqb9+B5Xba1AV9+Nn6q+BiLTu\nwusVqPImtQKBgQCp/J7O7acbGuZSAsvUuBq1RXBkaTNUstMiCmt6VBJg7EMal6DH\nn04cGgg4eHNIt4jZEyIX0FE5Rckvhkb3hlI0syBGjC1iM6X/KvY9y3vGonO1T03U\n3O5kuRasXcaSbLwJ+Tfme2apZUwKb/y23wRCqRpf9Tns7m+fnOj6EeIrlQKBgDhS\n55dcbJ1fel6qX0mrphFAuO0WGHRVZcPlxEIAb8qXgTUNHBshfFZARcjMD8TwwA8c\nDjwAYXKdvjYuXHLMJuV864hmUF6HA6ZC2uNVrV64xeBwP9Blk028YidWABpZlcss\naFPC/CsA9CSZd2omeV+lVgnGVxnViMmOs1E28485AoGAPi2BJdpK4z+sb8bDUI2o\nXkewNof7OoJRkV2hEfQ5KnTFjqZz/DZ9KFLgYi7igGkL7HEv/ScMijowO2gZlNWa\naV2kAR4Z4WFy3+Wcqs1UadTFHqslRh3ZpNPq3gKBb3IHgKEwp4QAGj/3rhB1RWC+\nYTOs9hW3MWBuUU2llIUSmIY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflowcsharp@travelagent-bwsm.iam.gserviceaccount.com",
+  "client_id": "103200064460773717664",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflowcsharp%40travelagent-bwsm.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
